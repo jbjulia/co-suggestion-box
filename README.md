@@ -18,7 +18,7 @@ Please make sure to update tests as appropriate.
 
 ## Roadmap
 
-I'm interested in completing the login and registration forms to allow commands to sign up and register their email address for suggestion purposes. This will require additional functionality to determine which command has been selected and their recipient address.
+I'm interested in completing the login and registration forms to allow commands to sign up and register their email address for suggestion purposes. This will require additional functionality to determine which command has been selected and their recipient address. At this time, however, this project is functional for the intended use.
 
 ## License
 
