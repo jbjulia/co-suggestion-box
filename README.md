@@ -2,11 +2,13 @@
 
 A simple contact form for submitting anonymous suggestions to Commanding Officers.
 
+![Alt text](/assets/img/co-suggestion-box.png)  
+
 ## Usage
 
 [Click here to check it out!](https://cosuggestionbox.com/)
 
-Simply choose a command from the selection box and type your message. Your suggestion will be forwarded to the registered address for that command and handled accordingly. All submissions are anonymous, however, should avoid identifying details or inappropriate language.
+Simply choose a command from the selection box and type your message. Your suggestion will be forwarded to the registered address for that command and handled accordingly. All submissions are anonymous, however, should avoid the use of identifying details or inappropriate language.
 
 ## Contributing
 
